@@ -1,0 +1,24 @@
+h1 {
+   color: lightgreen;
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(128, 78, 78);
+}
+
+.list-1 {
+    background-color: hotpink;
+    margin-bottom: 50px;
+    border: ivory;
+    border-radius: 50px;
+    padding: 20px 20px 20px 20px;
+    width: 200px;
+    height: 200px;
+}
+
+.list-2 {
+    background-color:indigo;
+    width: 200px;
+    height: 200px;
+}
